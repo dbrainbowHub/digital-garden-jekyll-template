@@ -1,4 +1,6 @@
+```
 --- title: improve my thinking ---
+```
 
 #### Write your new note
 
